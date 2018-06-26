@@ -1,0 +1,157 @@
+*{
+	border:0;
+	padding:0;
+}
+
+	/*NAVBAR*/
+
+.navbar{
+	position: fixed;
+	background-color: #380B61;
+	height: 4rem;
+	z-index: 3
+}
+
+.logo{
+	
+	width: 4rem;
+	background-color: #380B61;
+
+}
+
+.icono{
+	display: inline-block;
+	width: 2rem;
+	background-color: #380B61;
+	padding-bottom: 0.6rem;
+
+}
+
+
+.texto-menu{
+	display: inline-block;
+	background-color: #380B61;
+	font-size: 1.5rem;
+	text-align: left;
+	margin-top: 2.3rem;
+	margin-right: 6.2rem;
+
+}
+	/*/NAVBAR*/
+
+/*contenido*/
+
+
+.avatar{
+	max-width: 150px;
+	max-height: 150px;
+	position: relative;
+	float: right;
+	z-index: 10;
+	display: block;
+	margin-right: 4rem;
+	margin-top: 1rem;
+	border-radius: 75% 75% 75% 75%;
+}
+
+
+.jumbotron{
+	background-color: orange;
+	height:17rem;
+	margin-top: 4rem;
+	margin-bottom: 0;
+	border-radius: 0 0 0 0;
+	;
+}
+
+.container{
+	max-width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+}
+
+.col-md-5{
+	float: left;
+	background-color: red;
+	padding: 1rem 0 1rem 0;
+	margin-top: 0;  
+	
+}
+
+.perfil{
+	float: left;
+	display: block;
+	margin-left: 7rem;
+	border: solid .3rem black;
+}
+
+.twett{
+	height: 100px;
+	width: 100%;
+	display: block;
+	margin-top: 48%;
+	border-radius: 13px 13px 13px 13px;
+	border: solid 2px black;
+
+}
+
+.boton{
+	display: block;
+	margin-top: 1rem;
+	margin-bottom: .5rem;
+	float: right;
+}
+
+.col-md-10{
+	border:solid 5px white;
+	border-radius: 25px 25px 25px 25px;
+	height: 25rem;
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+	max-width: 80%;
+
+}
+.col-md-7{
+
+	float: left;
+	background-color: green;
+	padding: 1rem 0 1rem 0;
+	margin-top: 0;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
